@@ -1,1 +1,1 @@
-## Digio camera capture KIT SDK
+## Digio API client SDK
