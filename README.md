@@ -1,1 +1,1 @@
-## Digio native camera SDK
+## Digio camera capture KIT SDK
